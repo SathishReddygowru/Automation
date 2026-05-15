@@ -95,3 +95,4 @@ reading_the_file("demo.txt","r")
 
 print("Mithilesh")
 print("sathish reddy")
+print("Sathi")
